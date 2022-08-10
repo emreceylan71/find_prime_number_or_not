@@ -22,7 +22,7 @@ int main()
 
 	cout << "Yes. This is prime number.";
 	
-		
+	return 0;	
 	
 }
 
